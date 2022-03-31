@@ -1,5 +1,10 @@
 import processing.core.PApplet;
 
+ /**
+  * Description: a code that prints an array of squares in a specific way using for loops acoridng to an example
+  * @author: Jenusan y
+  */
+
 public class Sketch extends PApplet {
   int intRow;
   int intColumn;
